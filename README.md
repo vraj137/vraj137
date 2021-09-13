@@ -10,7 +10,7 @@
 [![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vraj137)](https://github.com/vraj137)
 
 
-### Profile Views!
+### Spectator Tally!
 ![Visitor Count](https://profile-counter.glitch.me/{vraj137}/count.svg)
 
 
