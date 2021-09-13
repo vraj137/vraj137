@@ -13,7 +13,7 @@
 ## Profile Views!
 ![Visitor Count](https://profile-counter.glitch.me/{vraj137}/count.svg)
 
-![image title](https://rushter.com/counter.svg)
+![image title](https://github.com/vraj137/counter.svg)
 
 
 
