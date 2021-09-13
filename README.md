@@ -14,7 +14,7 @@
 
 
 
-### Spectator Tally! ![Visitor Count](https://profile-counter.glitch.me/{vraj137}/count.svg)
+ Spectator Tally! ![Visitor Count](https://profile-counter.glitch.me/{vraj137}/count.svg)
 
 
 
