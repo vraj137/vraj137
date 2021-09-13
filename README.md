@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png
+[1]: http://www.twitter.com/carlsednaoui
