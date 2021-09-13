@@ -32,6 +32,8 @@
 <a href="https://linkedin.com/in/vrajbhavsar" target="blank"><img align="center" src="<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>" alt="vrajbhavsar" height="30" width="40" /></a>
 </p>
 
+<github-link href="https://www.github.com/vraj137" height="15px"></github-link>
+
 
 
 
