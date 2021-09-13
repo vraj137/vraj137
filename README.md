@@ -1,4 +1,4 @@
-![vraj](https://user-images.githubusercontent.com/69980892/133011258-3657d1a3-1ce2-45b4-bffe-6ca5e5c0a7b9.png)
+![banger](https://user-images.githubusercontent.com/69980892/133012003-4a82a124-7038-4d4f-8dc2-47b54a46f7b7.png)
 
 
 ## Hello World, I'm Vraj Bhavsar 👋
