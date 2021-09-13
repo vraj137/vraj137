@@ -1,3 +1,6 @@
+![vraj](https://user-images.githubusercontent.com/69980892/133011258-3657d1a3-1ce2-45b4-bffe-6ca5e5c0a7b9.png)
+
+
 ## Hello World, I'm Vraj Bhavsar 👋
 
 - 🔭 I’m currently working on interesting side projects!
