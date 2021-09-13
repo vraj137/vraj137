@@ -8,7 +8,8 @@
 - 💬 Ask me about my projects
 - ⚡ Fun fact: I love to play sports!
 
-### Connect with me: ![giphy](https://user-images.githubusercontent.com/69980892/133157716-bf759a75-dc73-41d8-8b02-579f4e05dfba.gif)
+### Connect with me: 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
 
 
 [![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vraj137)](https://github.com/vraj137)
