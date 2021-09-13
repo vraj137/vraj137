@@ -18,7 +18,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{vraj137}/count.svg)
 
-<h1 align="center">Hello World 👋, I'm Vraj Bhavsar</h1>
+<h1>Hello World 👋, I'm Vraj Bhavsar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj137&label=Profile%20views&color=0e75b6&style=flat" alt="vraj137" /> </p>
 
 - 🔭 I’m currently working on **fun and creative projects!**
