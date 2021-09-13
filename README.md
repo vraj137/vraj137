@@ -24,9 +24,10 @@
 - 🔭 I’m currently working on **fun and creative projects!**
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **ANYTHING!**
+- 📫 How to reach me **vraj137@hotmail.com**
 - ⚡ Fun fact **I love to play sports!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vrajbhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrajbhavsar" height="30" width="40" /></a>
 </p>
