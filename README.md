@@ -8,8 +8,6 @@
 - 💬 Ask me about my projects
 - ⚡ Fun fact: I love to play sports!
 
-[![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vraj137)](https://github.com/vraj137)
-
 ### Connect with me: 
 
 
