@@ -8,6 +8,8 @@
 - 💬 Ask me about my projects
 - ⚡ Fun fact: I love to play sports!
 - 📨 How to reach me: ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 ### How Am I Doing?
