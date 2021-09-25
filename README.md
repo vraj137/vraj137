@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I love to play sports!
 
 ### Connect with me: 
-
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[1]: http://www.github.com/vraj137
 
 ### How Am I Doing?
 [![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vraj137)](https://github.com/vraj137)
