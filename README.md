@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about my projects
 - ⚡ Fun fact: I love to play sports!
-- 📨 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white src = 'mailto:vraj13725@gmail.com') ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📨 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white src="{https://www.linkedin.com/in/vrajbhavsar/}") ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
