@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about my projects
 - ⚡ Fun fact: I love to play sports!
-- 📨 How to reach me: ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+- 📨 How to reach me: <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
 
 ### How Am I Doing?
