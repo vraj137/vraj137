@@ -4,7 +4,7 @@
 - 🔜 I’m in the process of creating innovative projects 
 - 💬 Ask me about my projects!
 - ⚡ Fun fact: sleep > everything 😴
-- 📨 How to reach me: ![Gmail]([mailto:vraj13725@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📨 How to reach me: ![Gmail][mailto:vraj13725@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj137&label=Profile%20views&color=0e75b6&style=flat" alt="vraj137" /> </p>
 
