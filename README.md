@@ -4,6 +4,10 @@
 - 🔭 I’m currently in the process of learning MERN Stack📚
 - 🔜 I’m in the process of creating innovative projects 
 
+```yaml
+education: "University of Waterloo
+```
+
 ## 📨 How to Reach Me?  
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vraj13725@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajbhavsar/)
 
