@@ -1,4 +1,7 @@
 ![bhavsar](https://user-images.githubusercontent.com/69980892/133012536-4893c850-3c7a-463f-916c-52512f3154fb.png)
+
+## A Little Bit About Me 🚀
+
 ```yaml
 name: Vraj Bhavsar
 education: University of Waterloo
@@ -10,7 +13,7 @@ projects: Scroll Down :)
 
 ```
 
-## 📨 How to Reach Me?  
+## Get In Touch 📨
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vraj13725@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajbhavsar/)
 
 
