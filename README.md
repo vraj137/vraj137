@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=<Hello World!/>🚀&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=&lt;Hello World!/&gt;🚀&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
+
 
 ![bhavsar](https://user-images.githubusercontent.com/69980892/133012536-4893c850-3c7a-463f-916c-52512f3154fb.png)
 
