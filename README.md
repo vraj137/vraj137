@@ -1,11 +1,14 @@
 ![bhavsar](https://user-images.githubusercontent.com/69980892/133012536-4893c850-3c7a-463f-916c-52512f3154fb.png)
 
-- 💻 Software Developer Intern @ Health & Rehab Research Inc.
-- 🔭 I’m currently in the process of learning MERN Stack📚
-- 🔜 I’m in the process of creating innovative projects 
-
 ```yaml
-education: "University of Waterloo
+name: Vraj Bhavsar
+education: University of Waterloo
+major: Computer Engineering
+current_learning: ["Swift, MERN Stack and more"]
+
+technical_experience: Software Engineering Intern - Health & Rehab Research Inc.
+projects: Scroll Down :)
+
 ```
 
 ## 📨 How to Reach Me?  
