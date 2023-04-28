@@ -8,8 +8,12 @@ education: University of Waterloo
 major: Computer Engineering
 current_learning: ["Swift, MERN Stack and more"]
 
-technical_experience: Software Engineering Intern - Health & Rehab Research Inc.
-projects: Scroll Down :)
+technical_experience: 
+  [
+    "Software Engineering Intern - Health & Rehab Research Inc." 
+    "Web Developer - headStartSTEM"
+  ]
+projects: Many & counting... ( Scroll Down :) )
 
 ```
 
