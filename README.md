@@ -10,7 +10,6 @@ current_learning: ["Swift, MERN Stack and more"]
 
 technical_experience: 
   [
-
     "Software Engineer Intern - eSentire" 
     "Software Engineer Intern  - Health & Rehab Research Inc." 
     "Web Developer - headStartSTEM"
