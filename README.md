@@ -9,10 +9,10 @@ current_learning: ["Swift, MERN Stack and more"]
 
 technical_experience: 
   [
-    "Data Engineer Intern - Cadillac Fairview"
-    "IOS/Software Engineer Intern - Health & Rehab Research Inc."
-    "Software Engineer Intern - eSentire" 
-    "Software Engineer Intern (Research Assistant) - Health & Rehab Research Inc." 
+    "Data Engineering Intern - Cadillac Fairview"
+    "IOS/Software Engineering Intern - Health & Rehab Research Inc."
+    "Software Engineering Intern - eSentire" 
+    "Software Engineering Intern (Research Assistant) - Health & Rehab Research Inc." 
   ]
 projects: Many & counting... ( Scroll Down :) )
 
